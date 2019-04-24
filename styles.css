@@ -1,0 +1,37 @@
+.idea{
+  float:right;
+}
+.imgHeader{
+  
+}
+.ServicesHeader{
+  
+}
+
+
+.Container .item{
+  border-style:solid;
+ border-color:black;
+  width:350px;
+  background-color:#E9DBDB;
+  margin:20px
+}
+.Container{
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  margin:20px
+}
+.bottomText{
+  width:375px;
+}
+.footerImg{
+  float:right;
+}
+.h6{
+  text-align:center;
+}
+.copyright{
+  padding:20px
+    text-align:center;
+}
